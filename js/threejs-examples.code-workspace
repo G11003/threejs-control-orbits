@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../threejs-examples"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "threejs-control-orbits"
+	}
+}
