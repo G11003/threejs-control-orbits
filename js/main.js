@@ -13,7 +13,7 @@ import * as THREE from 'three';
 				scene = new THREE.Scene();
                 
 
-				scene.background = new THREE.Color( 0x6b2a2a);
+				scene.background = new THREE.Color( 0x666555);
 				scene.fog = new THREE.FogExp2( 0x2b2a6b, 0.002 );
                 console.log(scene);
 
